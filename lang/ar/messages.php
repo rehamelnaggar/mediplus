@@ -13,5 +13,5 @@ return [
     'get_appointment' => 'احجز موعد',
     'about_us' => 'معلومات عنا',
     'contact_now' => 'اتصل الآن',
-    'learn_more' => 'اعرف أكثر',
+    'learn_more' => 'اعرف اكثر ',
 ];
